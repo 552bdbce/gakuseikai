@@ -146,6 +146,14 @@ a:focus, a:hover {
   border-color: #c54041;
   line-height: 1.4;
 }
+.s-icon--primary-brd2 {
+  color: #282828;
+  background: transparent;
+  border-width: 0.0625rem;
+  border-style: solid;
+  border-color: #282828;
+  line-height: 1.4;
+}
 
 .s-icon--primary-brd:focus, .s-icon--primary-brd:hover {
   color: #fff;
@@ -263,6 +271,9 @@ a:focus, a:hover {
 ------------------------------------*/
 .g-color--primary {
   color: #c54041 !important;
+}
+.g-color--primary2 {
+  color: #ffffff !important;
 }
 
 .g-color--text[href]:hover {
