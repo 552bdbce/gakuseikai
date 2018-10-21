@@ -53,10 +53,10 @@ td {
     line-height: 1;
 }
 .color01{
-    background:#D8C8AE;
+    background: #ff6c6d;
 }
 .color02 {
-    background: #80B7E8;
+    background: rgba(166, 197, 255, 0.69);
 }
 .line2 {
     height: 51px;
