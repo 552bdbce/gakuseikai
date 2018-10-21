@@ -12,7 +12,7 @@ caption {
     float: left;
     zoom: 1;}
 @media(max-width:768px){
-    .col2of4{width: 350px;}
+    .col2of4{width: 100%;}
 }
 .tableBox{
     margin: 0 10px;

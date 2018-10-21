@@ -2,7 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d0cfe86-edf4-448f-aa0e-9c98748f6df9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/img/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/js/ie-10-view-port.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/js/jquery-1.11.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/js/jquery.backstretch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/come-here/js/jquery.countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/custom/movie.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custom/movie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/custom/timetable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custom/timetable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/cou2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/icomoon/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/icomoon/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/icomoon/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/icomoon/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/fonts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/images/img_bg_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/images/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/modernizr-2.6.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/launch/js/simplyCountdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,73 +74,62 @@
     <session id="-570168522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
-          <entry key="html" value="8" />
+          <entry key="html" value="9" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="8" />
+          <entry key="HTML" value="9" />
           <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="64" />
-          <entry key="html" value="2933" />
+          <entry key="css" value="70" />
+          <entry key="html" value="3014" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="64" />
-          <entry key="HTML" value="2933" />
+          <entry key="CSS" value="70" />
+          <entry key="HTML" value="3014" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/events.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/custom/timetable.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="821" column="18" lean-forward="true" selection-start-line="821" selection-start-column="18" selection-end-line="821" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/custom/timetable.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="340">
+              <caret line="288" column="36" lean-forward="true" selection-start-line="288" selection-start-column="36" selection-end-line="288" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="145" column="24" lean-forward="true" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
+            <state relative-caret-position="2465">
+              <caret line="145" column="24" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -97,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-438">
+            <state relative-caret-position="1275">
               <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -109,8 +158,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="778" column="8" lean-forward="true" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="84" />
+            <state relative-caret-position="13226">
+              <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -118,8 +167,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index_app_landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="550" column="33" lean-forward="true" selection-start-line="502" selection-start-column="8" selection-end-line="550" selection-end-column="33" />
+            <state relative-caret-position="9350">
+              <caret line="550" column="33" selection-start-line="502" selection-start-column="8" selection-end-line="550" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -150,6 +199,8 @@
       <find>11</find>
       <find>安</find>
       <find>s-promo-block-v2 js__parallax-window</find>
+      <find>col2</find>
+      <find>ali</find>
     </findStrings>
     <replaceStrings>
       <replace>assets/titan-assets/assets</replace>
@@ -168,8 +219,9 @@
         <option value="$PROJECT_DIR$/assets/megakit-master/HTML/textslider.html" />
         <option value="$PROJECT_DIR$/textslider.html" />
         <option value="$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css" />
-        <option value="$PROJECT_DIR$/assets/custom/timetable.css" />
         <option value="$PROJECT_DIR$/events.html" />
+        <option value="$PROJECT_DIR$/assets/custom/timetable.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -185,7 +237,7 @@
       <path value="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="107" />
     <option name="y" value="-21" />
     <option name="width" value="1455" />
@@ -198,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
@@ -207,41 +258,18 @@
               <item name="kosen-fes" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="kosen-fes" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
-            <path>
-              <item name="kosen-fes" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="kosen-fes" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="kosen-fes" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="kosen-fes" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="custom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="kosen-fes" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="kosen-fes" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="megakit-master" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="kosen-fes" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="kosen-fes" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="megakit-master" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="HTML" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540054562041" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540086499462" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/events.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
@@ -263,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.events.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/gakuseikai">
       <method v="2" />
     </configuration>
@@ -273,12 +301,17 @@
     <configuration name="gakuseikai" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/gakuseikai">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kosen-fes/index.html">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.gakuseikai" />
       <item itemvalue="JavaScript Debug.events.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.events.html" />
       </list>
     </recent_temporary>
@@ -294,12 +327,13 @@
       <option name="presentableId" value="Default" />
       <updated>1540000482638</updated>
       <workItem from="1540000485364" duration="7961000" />
-      <workItem from="1540029270070" duration="21447000" />
+      <workItem from="1540029270070" duration="22046000" />
+      <workItem from="1540084880836" duration="1909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29408000" />
+    <option name="totallyTimeSpent" value="31916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,7 +348,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098614074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09968017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,30 +391,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/if1.js" />
     <entry file="file://$PROJECT_DIR$/if2.js" />
-    <entry file="file://$PROJECT_DIR$/textslider.html">
+    <entry file="file://$PROJECT_DIR$/textslider.html" />
+    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/textslider.html" />
+    <entry file="file://$PROJECT_DIR$/events.html" />
+    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/textslider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="259" column="57" selection-start-line="259" selection-start-column="51" selection-end-line="259" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index_app_landing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="550" column="33" lean-forward="true" selection-start-line="502" selection-start-column="8" selection-end-line="550" selection-end-column="33" />
+        <state relative-caret-position="2465">
+          <caret line="145" column="24" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-438">
+        <state relative-caret-position="1275">
           <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -390,45 +413,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="778" column="8" lean-forward="true" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="84" />
+        <state relative-caret-position="13226">
+          <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index_app_landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9350">
+          <caret line="550" column="33" selection-start-line="502" selection-start-column="8" selection-end-line="550" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/custom/timetable.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="145" column="24" lean-forward="true" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="821" column="18" lean-forward="true" selection-start-line="821" selection-start-column="18" selection-end-line="821" selection-end-column="18" />
+        <state relative-caret-position="340">
+          <caret line="288" column="36" lean-forward="true" selection-start-line="288" selection-start-column="36" selection-end-line="288" selection-end-column="36" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
