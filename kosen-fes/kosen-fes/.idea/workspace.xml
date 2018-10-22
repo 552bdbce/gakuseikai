@@ -3,1032 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d0cfe86-edf4-448f-aa0e-9c98748f6df9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/custom/timetable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custom/timetable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/contacts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/css/global/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/gold.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/1920x1080/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x400/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x400/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x400/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x400/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x400/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x400/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x500/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x550/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x550/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/400x550/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/450x215/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/450x295/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/450x700/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/500x750/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/500x750/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x647/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x970/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x970/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x970/03.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x970/033.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x970/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/970x970/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/01-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/01-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/02-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/02-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/03-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/03-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/04-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/04-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/05-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/clients/05-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo-gold-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo-gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo-red-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo-red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/mockups/devices-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/mockups/iphone-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/mockups/iphone-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/mockups/items-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/mockups/pencil-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/gmap/cd-icon-controller.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/gmap/cd-icon-location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/gmap/cd-icon-location.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/gmap2/cd-icon-controller.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/gmap2/cd-icon-location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/gmap2/cd-icon-location.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/img/widgets/worldmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/include/media/fallback.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/include/media/mp4_video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/include/media/webm_video.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index_app_landing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index_clinic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index_coming_soon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index_events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index_lawyer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/index_portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/circles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/circles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/counter.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/equal-height.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/equal-height.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/faq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/faq.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/google-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/google-map.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/google-map2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/google-map2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/header-sticky.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/header-sticky.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/masonry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/masonry.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/parallax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/portfolio-3-col.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/portfolio-3-col.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/portfolio-4-col-slider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/portfolio-4-col-slider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/progress-bar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/progress-bar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/scrollbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/scrollbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/swiper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/swiper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/tab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/tab.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/components/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/js/global.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/base/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/base/_selection.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/components/_clients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/components/_faq.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/components/_form-input.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/components/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/_global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/global/_global-colors.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/global/_global-helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/global/_global-responsive.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/global/_global-spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/global/global/_global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_mockup.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_plan.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_process.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_promo-block.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_scroll-to-section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_team.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/gui/_video.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/layout/_header-v2.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/layout/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_animation-delay.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_animation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_backface-visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_before-after.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_child.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_container.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_cubic-transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_display-center.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_font.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_horizontal-center-align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_keyframes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_overlay.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_perspective.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_placeholder.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_rotate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_selection.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_stroke-dashoffset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_theme-icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_transform-origin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_transform-scale.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/mixins/_translate3d.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/theme/_gold.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/theme/_red.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/theme/gold.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/theme/red.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/theme/theme/_gold.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/theme/theme/_red.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/vendors/_back-to-top.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/vendors/_cubeportfolio.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/vendors/_gmap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/scss/vendors/_swiper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/team.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/bootstrap/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/circles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/counterup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/cubeportfolio/css/cubeportfolio.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/cubeportfolio/img/cbp-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.appear.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.back-to-top.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.equal-height.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.masonry.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.migrate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.smooth-scroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/jquery.wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/magnific-popup/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/masonry/imagesloaded.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/masonry/jquery.masonry.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/scrollbar/jquery.scrollbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/scrollbar/scrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/swiper/swiper.jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/swiper/swiper.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/themify/fonts/themify.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/themify/fonts/themify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/themify/fonts/themify.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/themify/fonts/themify.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/themify/themify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/vidbg.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/HTML/vendor/waypoint.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/dev-tools/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/dev-tools/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/dev-tools/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/megakit-master/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/about1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/about2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/about3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/about4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/about5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/alerts-and-wells.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/css/colors/default-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/css/colors/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/css/style-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/about_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/agency/agency_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/blog_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-dark-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-dark-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-dark-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-dark-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/client-logo-dark-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/contact_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/faq_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/favicons/ms-icon-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/case1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/case2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/case3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/case4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/case5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/case6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/finance1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/finance2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/finance3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/finance_funfact_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/finance_header_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/finance/rqst_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/big/big_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_1/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_1/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_1/43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_1/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_1/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_2/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_3/55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_4/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_5/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_6/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_7/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery/thumbnail/full_8/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/gallery_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/apple-store-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/banner_img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/feature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/iPhone-6-Mockup_landscape-d6dd4e9f560128788d91804cd90a80ddbd8f14f2964b63fc056601cc11a8a9e4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/iphone-mockup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/landing_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/landscap-mockup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/playstore-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/screenshot_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/why_choose.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/why_choose_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/landing/windows-store-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/map-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/next-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/architecture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/image1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/image2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/image3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/image4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/image5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/image6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/landscape.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/lifestyle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/photography/portrait.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/grid-portfolio8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/gridportfolio111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/masonry-portfolio9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/portfolio/portfolio_header_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-masonry-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-masonry-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/post-masonry-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/prev-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/pricing_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/promo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/cake_pastries_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/coffee_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/corn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/kabab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/limes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/meat_fish_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/radish.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/reservation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/slider1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/slider2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/slider3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/restaurant/soup_salad_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/rp-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/rp-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/rp-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/rp-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/agency.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/finance.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/landing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/main_demo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/one_page.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/photography.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/portfolio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/restaurant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/screenshots/shop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/section-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/services_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/product-page-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/slider1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/slider2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/shop/slider3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/showcase_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/team-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/team-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/team-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/team-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/test1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/testimonial_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/work-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/work-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/work-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/work-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/work-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/images/work-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/animate.css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/bootstrap/dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/components-font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/desandro-matches-selector/matches-selector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/Read Me.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/et-line-font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/et-line.dev.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/fonts/et-line.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/fonts/et-line.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/fonts/et-line.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/fonts/et-line.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/et-line-font/lte-ie7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/ev-emitter/ev-emitter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/fizzy-ui-utils/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/flexslider/flexslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/flexslider/fonts/flexslider-icon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/flexslider/fonts/flexslider-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/flexslider/fonts/flexslider-icon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/flexslider/fonts/flexslider-icon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/flexslider/jquery.flexslider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/get-size/get-size.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/imagesloaded/imagesloaded.pkgd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/isotope/dist/isotope.pkgd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/jquery.mb.ytplayer/dist/jquery.mb.YTPlayer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/jquery/dist/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/magnific-popup/dist/jquery.magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/magnific-popup/dist/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/masonry/dist/masonry.pkgd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/outlayer/outlayer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/ROADMAP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.theme.default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.theme.green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.theme.green.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/assets/owl.video.play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/dist/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/css/docs.theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/bird_blue_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/feature-drag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/feature-modern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/feature-module.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/feature-options.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/feature-responsive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/feature-zombie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/owl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/img/twitter_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/js/foundation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/assets/owl.video.play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/owlcarousel/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/vendors/foundation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/vendors/highlight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/vendors/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/vendors/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/assets/vendors/jquery.mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/animate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/autoheight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/autoplay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/autowidth.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/basic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/center.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/demos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/lazyLoad.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/merge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/mousewheel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/responsive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/rtl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/stagepadding.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/urlhashnav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/demos/video.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/api-classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/api-events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/api-options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/dev-buildin-plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/dev-external.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/dev-plugin-api.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/dev-styles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/started-faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/started-installation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/started-welcome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/support-changelog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/support-contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/docs/support-contributing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/bird_blue_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/feature-drag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/feature-modern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/feature-module.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/feature-options.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/feature-responsive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/feature-zombie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/owl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/img/twitter_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/js/foundation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/scss/_settings.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/scss/custom.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/scss/demos.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/scss/docs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/scss/docs.theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/scss/highlight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/vendors/foundation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/vendors/highlight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/vendors/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/vendors/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/assets/vendors/jquery.mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/data/classes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/data/events.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/data/features.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/data/options.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/helpers/modulo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/helpers/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/layouts/demos.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/layouts/docs.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/layouts/home.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/animate.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/autoheight.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/autoplay.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/autowidth.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/basic.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/center.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/demos.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/events.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/lazyLoad.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/merge.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/mousewheel.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/responsive.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/rtl.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/stagepadding.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/test.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/urlhashnav.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/demos/video.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/api-classes.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/api-events.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/api-options.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/dev-external.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/dev-styles.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/started-faq.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/started-installation.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/started-welcome.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/support-changelog.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/support-contact.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/docs/support-contributing.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/pages/index.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/footer.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/head.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/header.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/home-carousel.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/home-features.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/home-hero.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/home-teaser-text.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/javascripts.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/releated-docs.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/sidenav-docs.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/title.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/docs_src/templates/partials/vendors.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/img/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/img/owl.video.play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.animate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.autoheight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.autoplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.autorefresh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.hash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.lazyload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.support.modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/js/owl.video.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_animate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_autoheight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_lazyload.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_theme.default.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_theme.green.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/_video.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/owl.carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/owl.theme.default.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/src/scss/owl.theme.green.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/owl.carousel/test/unit/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/simple-text-rotator/jquery.simple-text-rotator.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/simple-text-rotator/simpletextrotator.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/skrollr/src/skrollr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/smoothscroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/lib/wow/dist/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_blogpost.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_client.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_comment_box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_common.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_config.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_cta.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_documentation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_funfact.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_gallery.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_gmap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_media_querries.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_portfolio.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_preloader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_price_table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_restaurant_menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_services_and_features.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_shop_items.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_shop_single_product.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_showcase.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_single_portfolio.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_slider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_team.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_testimonial.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_video_box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/_widgets.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/colors/default.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/assets/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_masonry_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_masonry_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_masonry_col_4 - コピー.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_grid_masonry_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_single_left_sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_single_right_sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_standard_left_sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/blog_standard_right_sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/contact1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/contact2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/contact3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/content_box.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/documentation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/forms.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/gallery_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/gallery_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/gallery_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/gallery_col_6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_agency.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_finance.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_landing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_classic_flexslider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_classic_gradient_overlay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_classic_static.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_classic_text_rotator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_classic_video_background.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_fullscreen_flexslider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_fullscreen_gradient_overlay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_fullscreen_static.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_fullscreen_text_rotator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_mp_fullscreen_video_background.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_op_fullscreen_gradient_overlay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_photography.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_restaurant.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/index_shop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/login_register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/php/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/php/inc/MCAPI.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/php/request_call.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/php/reservation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/php/subscribe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_boxed_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_boxed_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_boxed_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_boxed_gutter_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_boxed_gutter_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_boxed_gutter_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_full_width_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_full_width_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_full_width_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_full_width_gutter_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_full_width_gutter_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_full_width_gutter_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_hover_black.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_hover_gradient.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_masonry_boxed_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_masonry_boxed_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_masonry_boxed_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_masonry_full_width_col_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_masonry_full_width_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_masonry_full_width_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_single_featured_image1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_single_featured_image2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_single_featured_slider1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_single_featured_slider2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_single_featured_video1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/portfolio_single_featured_video2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/pricing1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/pricing2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/progress-bars.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/restaurant_menu1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/restaurant_menu2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/service1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/service2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/service3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/shop_checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/shop_product_col_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/shop_product_col_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/shop_single_product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/tabs_and_accordions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/titan-assets/typography.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1040,23 +15,24 @@
     <session id="-570168522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
+          <entry key="css" value="5" />
           <entry key="html" value="10" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
+          <entry key="CSS" value="5" />
           <entry key="HTML" value="10" />
           <entry key="JavaScript" value="2" />
         </counts>
@@ -1064,27 +40,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="70" />
-          <entry key="html" value="3131" />
+          <entry key="html" value="3799" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="70" />
-          <entry key="HTML" value="3131" />
+          <entry key="HTML" value="3799" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="355" column="73" selection-start-line="355" selection-start-column="73" selection-end-line="355" selection-end-column="73" />
+            <state relative-caret-position="221">
+              <caret line="151" column="220" selection-start-line="151" selection-start-column="220" selection-end-line="151" selection-end-column="220" />
               <folding>
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -1094,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/custom/timetable.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
+            <state relative-caret-position="986">
               <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
@@ -1164,19 +141,42 @@
       <path value="$PROJECT_DIR$/assets/t2/assets/lib/owl.carousel/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="107" />
-    <option name="y" value="-21" />
-    <option name="width" value="1455" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="width" value="1390" />
+    <option name="height" value="1776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <showMembers ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kosen-fes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kosen-fes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kosen-fes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kosen-fes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kosen-fes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kosen-fes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -1199,15 +199,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540126095740" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540182304936" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/events.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
@@ -1268,11 +266,12 @@
       <workItem from="1540029270070" duration="22046000" />
       <workItem from="1540084880836" duration="2042000" />
       <workItem from="1540122306566" duration="2831000" />
+      <workItem from="1540177362777" duration="3374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34880000" />
+    <option name="totallyTimeSpent" value="38267000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1284,10 +283,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="679" y="0" width="695" height="888" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10074627" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21193093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1297,7 +296,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.13748658" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.13870542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32975295" />
@@ -1323,68 +322,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/titan-assets/blog_grid_masonry_col_4 - コピー.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/titan-assets/blog_grid_masonry_col_4 - コピー.html" />
     <entry file="file://$PROJECT_DIR$/assets/if1.js" />
     <entry file="file://$PROJECT_DIR$/if2.js" />
     <entry file="file://$PROJECT_DIR$/textslider.html" />
     <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/textslider.html" />
     <entry file="file://$PROJECT_DIR$/events.html" />
-    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="145" column="24" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13226">
-          <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index_app_landing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9350">
-          <caret line="550" column="33" selection-start-line="502" selection-start-column="8" selection-end-line="550" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/css/theme/red.css" />
+    <entry file="file://$PROJECT_DIR$/shop.html" />
+    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/megakit-master/HTML/index_app_landing.html" />
+    <entry file="file://$PROJECT_DIR$/assets/custom/index.html" />
     <entry file="file://$PROJECT_DIR$/assets/custom/timetable.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
+        <state relative-caret-position="986">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/custom/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="95" column="6" lean-forward="true" selection-start-line="42" selection-end-line="95" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="355" column="73" selection-start-line="355" selection-start-column="73" selection-end-line="355" selection-end-column="73" />
+        <state relative-caret-position="221">
+          <caret line="151" column="220" selection-start-line="151" selection-start-column="220" selection-end-line="151" selection-end-column="220" />
           <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
