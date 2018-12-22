@@ -1,7 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d0cfe86-edf4-448f-aa0e-9c98748f6df9" name="Default Changelist" comment="" />
+    <list default="true" id="0d0cfe86-edf4-448f-aa0e-9c98748f6df9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/gakuseikai.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/custom/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/css/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/css/normalize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/fonts/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/js/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/js/jquery-1.11.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/js/jquery.nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shAutoloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushAS3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushAppleScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushBash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushCSharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushColdFusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushCpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushDelphi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushDiff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushErlang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushGroovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushJava.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushJavaFX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushPerl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushPhp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushPlain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushPowerShell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushPython.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushRuby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushSass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushScala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushSql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushVb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shCore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/scripts/shLegacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCore.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreDefault.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreDjango.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreEclipse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreEmacs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreFadeToGrey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreMDUltra.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreMidnight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shCoreRDark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeDefault.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeDjango.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeEclipse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeEmacs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeFadeToGrey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeMDUltra.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeMidnight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/Eventure-doc/syntax-highlighter/styles/shThemeRDark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/contact_process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_about.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_event.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_event.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_feature.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_feature.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_footer.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_price.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_price.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_service.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_service.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_team.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/_team.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/breadcrumb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/breadcrumb.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/banner/banner-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/banner/banner-map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/banner/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/banner/home-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/add.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/cat-post/cat-post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/cat-post/cat-post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/cat-post/cat-post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/causes/causes-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/causes/causes-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/causes/causes-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/feature-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/main-blog/m-blog-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/main-blog/m-blog-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/main-blog/m-blog-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/main-blog/m-blog-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/main-blog/m-blog-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/next.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/popular-post/post1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/popular-post/post2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/popular-post/post3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/popular-post/post4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/post-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/post-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/blog/prev.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/clients-logo/c-logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/clients-logo/c-logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/clients-logo/c-logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/clients-logo/c-logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/clients-logo/c-logo-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/disabled-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/disabled-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/g8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/primary-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/primary-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/success-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/success-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/user1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/elements/user2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/instagram/Image-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/map-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/schedule-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/schedule-def.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/team/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/team/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/team/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/team/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/img/welcome-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/gmaps.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/jquery.ajaxchimp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/mail-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/stellar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/prepros-6.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/price.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/schedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_elements.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_event.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_feature.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_predefine.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_price.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_team.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/single-blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/speakers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/animate-css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/animate-css/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/bootstrap-datepicker/bootstrap-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/bootstrap-datepicker/bootstrap-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/counter-up/jquery.counterup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/counter-up/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/flipclock/timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/isotope/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/isotope/isotope-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/jquery-ui/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/jquery-ui/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/lightbox/simpleLightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/lightbox/simpleLightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/linericon/fonts/Linearicons-Free.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/linericon/fonts/Linearicons-Free.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/linericon/fonts/Linearicons-Free.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/linericon/fonts/Linearicons-Free.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/linericon/fonts/Linearicons-Free.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/linericon/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/nice-select/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/nice-select/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/nice-select/js/jquery.nice-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/nice-select/js/jquery.nice-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/owl-carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/owl-carousel/assets/animated.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/owl-carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/owl-carousel/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/vendors/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/eventure/eventure/venue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/03465f23f19c9b31771cc8acec61089cccc1845c/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/9568d30ed5d2cebc2ad5df4154c8df8099b75c0b/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/.sass-cache/b687762b7660b1f71ae40e600add14c590cfdbc7/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/audio/dummy-audio.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/concert-tours.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/audioplayer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/classy-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/classy.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/classy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/classy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/classy.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-555.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/bg-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/breadcumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/breadcumb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/breadcumb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/breadcumb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/breadcumb5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/fs1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/fs2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/fs3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/fs4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/microphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/mp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/mp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/mp3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/mp4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/s1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/s2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/s3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/bg-img/s4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/blog-img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/blog-img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/blog-img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/blog-img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/compact-disc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/microphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/img/core-img/smartphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/js/active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/js/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/js/bootstrap/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/js/jquery/jquery-2.2.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/js/plugins/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/scss/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/scss/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/scss/_theme_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ongakusai/assets/musica/musica/style.css.map" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,12 +366,13 @@
     <session id="-570168522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,13 +409,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="151" column="224" selection-start-line="151" selection-start-column="224" selection-end-line="151" selection-end-column="224" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="151" column="134" selection-start-line="151" selection-start-column="134" selection-end-line="151" selection-end-column="134" />
             </state>
           </provider>
         </entry>
@@ -151,18 +500,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kosen-fes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kosen-fes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -180,6 +517,19 @@
               <item name="kosen-fes" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="custom" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kosen-fes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kosen-fes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,11 +604,12 @@
       <workItem from="1540122306566" duration="2831000" />
       <workItem from="1540177362777" duration="3374000" />
       <workItem from="1540430660184" duration="56000" />
+      <workItem from="1540442180811" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38323000" />
+    <option name="totallyTimeSpent" value="38358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,9 +621,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.9872068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="1.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,13 +673,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="151" column="224" selection-start-line="151" selection-start-column="224" selection-end-line="151" selection-end-column="224" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="151" column="134" selection-start-line="151" selection-start-column="134" selection-end-line="151" selection-end-column="134" />
         </state>
       </provider>
     </entry>
